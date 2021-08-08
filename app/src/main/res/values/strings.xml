@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyTempAppWE</string>
+    <string name="tempMessage">Enter a temperature</string>
+    <string name="rbC">Celcius</string>
+    <string name="rbF">Fahrenheit</string>
+    <string name="btnCal">Calculate</string>
+</resources>
